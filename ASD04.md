@@ -146,7 +146,7 @@ value the items on the left more.
 # Bare Requirements
 ## Agile Requirements are Barely Sufficient
 * Capture requirements at a high level and on a piecemeal basis
-    * Just in time for reach feature to be developed
+    * Just in time for each feature to be developed
     * Barely sufficient
         * The minimum to enable development and testing
             * Minimise the time spent on anything not part of product
@@ -157,7 +157,7 @@ value the items on the left more.
 * Most agile teams represent each requirement as a user story
     * Similar to Use Cases but lightweight and simpler
     * A simple statement about what a user wants to do with a feature
-* Should focus on the who, what and why of a feature, **know how**
+* Should focus on the who, what and why of a feature, **not how**
     * on a job site, two high-level User Stories might be:
         * As a job seeker, I want to search for a job, so I can advance my career
         * As a recruiter, I want to post a job vacancy, so I can find a new team member
